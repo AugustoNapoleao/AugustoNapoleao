@@ -1,7 +1,7 @@
 ### Olá!! Me chamo Augusto Napoleão e sou programador front-end em treinamento(terminando os estudo)!!!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_augusto_napoleao/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/augusto-napoleão-de-amorim-2886b11a6)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/augusto-napoleao-amorim)
 
 ### Linguagens e tecnologias que eu utilizo!!
 
