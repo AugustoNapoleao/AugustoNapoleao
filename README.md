@@ -1,4 +1,4 @@
-### Olá!! Me chamo Augusto Napoleão e sou programador front-end em treinamento(terminando os estudo)!!!
+### Olá!! Me chamo Augusto Napoleão e sou programador front-end em treinamento(terminando os estudos)!!!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_augusto_napoleao/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-napoleao-amorim)
